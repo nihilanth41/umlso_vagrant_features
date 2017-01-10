@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the umlso_vagrant_features feature.
+ */
+
+include_once 'umlso_vagrant_features.features.inc';
